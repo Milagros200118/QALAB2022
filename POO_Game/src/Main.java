@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
+//EDITADO POR MILAGROS LLAUCE
 
         Toyota toyo = new Toyota("PAS201"); //200
         toyo.encenderMotor();
